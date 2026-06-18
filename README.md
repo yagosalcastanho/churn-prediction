@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/README.md << 'EOF'
 
 # Churn Prediction
 
